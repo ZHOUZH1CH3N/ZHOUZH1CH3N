@@ -5,5 +5,5 @@
   <img src="https://now-playing-profile-git-master.1393925530.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
-![CSS](mw.gif "CSS")
+![elden ring](https://tenor.com/view/eldentring-gif-21917424 "elden ring")
 
