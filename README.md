@@ -1,7 +1,5 @@
 ### Hello world
 
 #### Spotify Now Playing
-<a href="https://now-playing-profile-git-master.1393925530.vercel.app/now-playing?open">
-  <img src="https://now-playing-profile-git-master.1393925530.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1393925530&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
